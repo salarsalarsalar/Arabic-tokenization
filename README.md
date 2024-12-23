@@ -14,7 +14,7 @@ What not has been done yet:
 - and Many other rules Which are not coming into my mind right now
 
 
-- The main Idea here is to show that the superiority of Arabic language by showing how easy it is to tokenize Arabic words as compared to English words as 
+The main Idea here is to show that the superiority of Arabic language by showing how easy it is to tokenize Arabic words as compared to English words as 
 you can make tokens of each words using the grammar rules and morphology formulas found in the Arabic language
 - English could also be tokenized in a similar fashion by first tokenizing Latin or Greek but I do not have any knowledge of those languages.
 
